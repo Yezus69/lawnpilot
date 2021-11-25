@@ -1,0 +1,3 @@
+[submodule "tracking/ORB_SLAM2"]
+	path = tracking/ORB_SLAM2
+	url = https://github.com/Yezus69/ORB_SLAM2
